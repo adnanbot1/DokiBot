@@ -11,24 +11,24 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a ⋅.━━━━ ⊰
 
 global.owner = [ 
-['51955918117', 'Daniel', true],
-['51967647592', 'Naye.xyz', true],
-['59175655964', 'Colaborador Alba070503', true],
-['573012482597', 'Owner', true],
-['51929972576'],
-['5493875262116'],
-['51967647592'],
-['59896392749'],
-['51907913096'], 
-['51906662557'],
-['573183650526'],
-['5492266466080'],
-['51977835959'],
-['5214434703586']]
+['994404213510', 'Daniel', true],
+['994404213510', 'Naye.xyz', true],
+['994404213510', 'Colaborador Alba070503', true],
+['994404213510', 'Owner', true],
+['994404213510'],
+['994404213510'],
+['994404213510'],
+['994404213510'],
+['994404213510'], 
+['994404213510'],
+['994404213510'],
+['994404213510'],
+['994404213510'],
+['994404213510']]
 
-global.mods = ['51977835959']
-global.prems = ['51977835959'],
-global.suittag = ['51955918117']
+global.mods = ['994404213510']
+global.prems = ['994404213510'],
+global.suittag = ['994404213510']
 
 //BETA: Si quiere evitar escribir el número que será bot en la consola, agregué desde aquí entonces:
 //Sólo aplica para opción 2 (ser bot con código de texto de 8 digitos)
